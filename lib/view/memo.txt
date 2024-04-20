@@ -1,0 +1,29 @@
+calendarStyle: CalendarStyle(
+          cellPadding: const EdgeInsets.all(2.0),
+          cellMargin: EdgeInsets.zero,
+          cellAlignment: Alignment.topLeft,
+          todayTextStyle: const TextStyle (
+            fontSize: 16.0,
+            fontWeight: FontWeight.bold,
+          ),
+          todayDecoration: BoxDecoration (
+            border: Border.all(
+              color: Colors.blue,
+              width: 2.0,
+            ),
+          ),
+          selectedTextStyle: const TextStyle (
+            color: Colors.black,
+            fontSize: 16.0,
+            fontWeight: FontWeight.bold,
+          ),
+          selectedDecoration: BoxDecoration (
+            border: Border.all(
+              color: Colors.red,
+              width: 4.0,
+            ),
+          ),
+        ),
+
+
+import 'package:japanese_holidays/japanese_holidays.dart';

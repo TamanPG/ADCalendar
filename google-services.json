@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728868666143",
+    "project_id": "ad-calendar-84e48",
+    "storage_bucket": "ad-calendar-84e48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728868666143:android:afb6929f9b6b63beb5ce2a",
+        "android_client_info": {
+          "package_name": "com.niteapps.adcalendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeD-Xl4ccu7L_uA4NP6oatXaXcSijo54w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728868666143:android:dfd46d75d69c94acb5ce2a",
+        "android_client_info": {
+          "package_name": "com.test.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeD-Xl4ccu7L_uA4NP6oatXaXcSijo54w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
